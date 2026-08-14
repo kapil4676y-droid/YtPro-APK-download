@@ -1,0 +1,6 @@
+{
+  "name": "YT Pro",
+  "description": "Powerful, modern, original video-sharing and creator platform with video player, vertical shorts, creator studio, monetization, upload pipeline, and admin controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
